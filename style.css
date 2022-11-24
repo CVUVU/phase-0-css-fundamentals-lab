@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+#nav1{
+  text-align: center;
+}
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+#featured-property{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.contacts{
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.correspondence{
+  float: left;
+  
+
+}
+.links{
+  float: left;
+}
+.follow{
+  float: left;
+}
+#details{
+  margin: 0%;
+}
