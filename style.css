@@ -14,29 +14,50 @@ a{
   padding-right: 10px;
   background-color: grey;
 }
-#featured-property{
+.image{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 800px;
+}
+p{
+  text-align: center;
+  margin-left: 15%;
+  padding-right: 15%;
+}
+.fig{
+  display: block;
+  text-align: center;
+}
+.para1{
+  font-display: block;
+  text-align: center;
 }
 .contacts{
   float: left;
-  padding-left: 10px;
-  padding-right: 10px;
+  text-align: center;
+  width: 25%;
 }
 
 .correspondence{
   float: left;
-  
-
+  text-align: center;
+  width: 25%;
 }
 .links{
   float: left;
-}
+  text-align: center;
+  width: 25%;
+  }
 .follow{
   float: left;
+  text-align: center;
+  width: 25%;
 }
 #details{
-  margin: 0%;
+  display: inline-block;
+  margin-left: 0%;
+  margin-right: 0%;
+  width: 100%;
+  background: rgb(233, 14, 14);
 }
